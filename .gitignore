@@ -1,0 +1,30 @@
+# Project datasets
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment and secrets
+.env
+*.env
+
+# Conda and virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Large raw source files
+*_raw.json
+*.xlsx
+*.csv
